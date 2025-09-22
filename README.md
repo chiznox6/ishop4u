@@ -1,6 +1,6 @@
 # iShop4U
 
-A simple static frontend demo for an online shopping site.  
+A simple  frontend demo for an online shopping site.  
 Deployed with **GitHub Pages**.
 
 ---
